@@ -6,7 +6,6 @@ new_array = []
   new_array << if i == true yield(collection[i])
   i= i + 1 
   end
-end
 new_array
 
 end
