@@ -1,4 +1,4 @@
 def my_select(collection)
  # your code here!
-collection.select(&block)
+collection.select
 end
