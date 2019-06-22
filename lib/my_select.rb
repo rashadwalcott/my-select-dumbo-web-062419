@@ -7,6 +7,7 @@ new_array = []
   new_array <<  yield(collection[i])
   i= i += 1 
   end
+end
 new_array
 
 end
